@@ -2,8 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Winky+Sans&size=40&pause=1000&color=0F1D5D&background=46A6AC00&width=500&height=100&lines=GREETINGS%2C+I'M+MEOR+HAZRUL;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">Meor Hazrul Hakim</h1>
-
 <p align="center">
   Software Engineer building useful web, mobile, and AI-powered products.
 </p>
