@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="./Github%20meor%20portfolio.svg" alt="Meor Hazrul Hakim portfolio" width="30%">
+<p <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Winky+Sans&pause=1000&color=0F1D5D&center=true&width=450&height=60&lines=GREETINGS%2C+I'M+MEOR+HAZRUL;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Meor Hazrul Hakim</h1>
