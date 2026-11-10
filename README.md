@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Github%20meor%20portfolio.svg" alt="Meor Hazrul Hakim portfolio" width="100%">
+  <img src="./Github%20meor%20portfolio.svg" alt="Meor Hazrul Hakim portfolio" width="50%">
 </p>
 
 <h1 align="center">Meor Hazrul Hakim</h1>
